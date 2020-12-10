@@ -1,4 +1,4 @@
-# privacy Policy
+# Privacy Policy
 
 <b>SwingClips Privacy Policy</b>
 
