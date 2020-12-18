@@ -6,4 +6,4 @@ Our policy is simple: We <b>do not</B> collect any personal information, and we 
 
 Thank you for using SwingClips!
 
-Contact us at: <a href = "mailto: omicronsoftwaredevelopment@gmail.com">OmicronSoftwareDevelopment@gmail.com</a>
+Contact us at: <a href = "mailto: swingClipsApp@gmail.com">SwingClipsApp@gmail.com</a>
